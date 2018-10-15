@@ -6,3 +6,4 @@
 - [Polling vs SSE vs WebSocket— How to choose the right one](https://codeburst.io/polling-vs-sse-vs-websocket-how-to-choose-the-right-one-1859e4e13bd9) 分别分析三种服务端推送方法的优劣，可待翻译
 - [深入理解 Node.js Stream 内部机制
 ](http://taobaofed.org/blog/2017/08/31/nodejs-stream/) node stream扫盲
+- [Dockerizing modern web apps](https://itnext.io/dockerizing-modern-web-apps-cd9667eebf44) 介绍如何在docker中使用nginx挂载spa页面
