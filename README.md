@@ -7,4 +7,4 @@
 - [深入理解 Node.js Stream 内部机制
 ](http://taobaofed.org/blog/2017/08/31/nodejs-stream/) node stream扫盲
 - [Dockerizing modern web apps](https://itnext.io/dockerizing-modern-web-apps-cd9667eebf44) 介绍如何在docker中使用nginx挂载spa页面
-- [清除浮动的四种方式及其原理理解](https://juejin.im/post/59e7190bf265da4307025d91) [关于CSS-BFC深入理解](https://juejin.im/post/5909db2fda2f60005d2093db) 清除浮动和BFC解析组合套餐
+- [清除浮动的四种方式及其原理理解](https://juejin.im/post/59e7190bf265da4307025d91)， [关于CSS-BFC深入理解](https://juejin.im/post/5909db2fda2f60005d2093db) 清除浮动和BFC解析组合套餐
