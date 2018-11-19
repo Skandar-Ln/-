@@ -10,3 +10,4 @@
 - [清除浮动的四种方式及其原理理解](https://juejin.im/post/59e7190bf265da4307025d91)， [关于CSS-BFC深入理解](https://juejin.im/post/5909db2fda2f60005d2093db) 清除浮动和BFC解析组合套餐
 - [npm 包、版本管理](https://juejin.im/post/5ab3f77df265da2392364341)
 - [React Hook](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889) Dan本人对hook的解读
+- [How to get create-react-app to work with a Node.js back-end API](https://medium.freecodecamp.org/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0) 介绍了create-react-app如何和后端node服务代码结合起来构成一个项目使用
