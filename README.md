@@ -11,3 +11,4 @@
 - [npm 包、版本管理](https://juejin.im/post/5ab3f77df265da2392364341)
 - [React Hook](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889) Dan本人对hook的解读
 - [How to get create-react-app to work with a Node.js back-end API](https://medium.freecodecamp.org/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0) 介绍了create-react-app如何和后端node服务代码结合起来构成一个项目使用
+- [移动互联网时代，如何优化你的网络 —— 域名解析篇](https://github.com/formulahendry/955.WLB)  关键字：httpdns
