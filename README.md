@@ -13,3 +13,4 @@
 - [How to get create-react-app to work with a Node.js back-end API](https://medium.freecodecamp.org/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0) 介绍了create-react-app如何和后端node服务代码结合起来构成一个项目使用
 - [移动互联网时代，如何优化你的网络 —— 域名解析篇](https://github.com/formulahendry/955.WLB)  关键字：httpdns
 - [为什么JS中Date的月份是从0到11这种index的方式的](https://stackoverflow.com/questions/2552483/why-does-the-month-argument-range-from-0-to-11-in-javascripts-date-constructor) 复制粘贴的锅
+- [百度APP-Android H5首屏优化实践](https://mp.weixin.qq.com/s?__biz=MzUxMzk2ODI1NQ==&mid=2247483745&idx=1&sn=59bf0c9bc5b584d411880617cf32f795&chksm=f94c5071ce3bd9679691c21f8c8d2f6dbc7ff83ac621f10dd120066f22643369232b66132119&mpshare=1&scene=21&srcid=0422Omc9TcTJlKDSkobZttb2&rd2werd=1#wechat_redirect) Hybrid秒开指南
